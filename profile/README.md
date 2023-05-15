@@ -1,5 +1,5 @@
 ## Industrial Software Solutions MSP
-This organization is a collaborative project created by Chris Bennet, Robert Coltharp, Jonathan McMullin, Carlos Rojas, and Nicholas Van Noort. The projects simulates a pitch by a Managed Service Provider team to provide IT support to a small specialized software company that manages industrial control systems. The company is primed to expand its marketshare but requires an MSP to revamp its security policy and provision the appropriate computer systems.
+This organization is a collaborative project created by Chris Bennet, Robert Coltharp, Jonathan McMullin, Carlos Rojas, and Nicholas Van Noort. The projects simulates a business pitch by a Managed Service Provider team. The MSP wants to provide IT support to a small specialized software company that manages industrial control systems. The company is primed to expand its marketshare, but requires an MSP to revamp its security policy and provision the appropriate computer systems for its  employees.
 
 # Authors
   * Chris Bennett - [GitHub](<insert personal GitHub url here>) + [LinkedIn](<insert LinkedIn url here>)
@@ -9,6 +9,6 @@ This organization is a collaborative project created by Chris Bennet, Robert Col
   * Nicholas Van Noort - [GitHub](<insert personal GitHub url here>) + [LinkedIn](<insert LinkedIn url here>)
 
 # Project Repositories
-  * [Presentation]
-  * [SOPs, Topologies, Documentation]
-  * [Scripts]
+  * [Presentation](https://github.com/Industrial-Software-Solutions-MSP/Presentation)
+  * [SOPs, Topologies, Documentation](https://github.com/Industrial-Software-Solutions-MSP/SOP-Topologies-Documentation)
+  * [Scripts](https://github.com/Industrial-Software-Solutions-MSP/Scripts)
