@@ -9,6 +9,6 @@ This GitHub organization is a collaborative project created by Chris Bennet, Rob
   * Nicholas Van Noort - [GitHub](https://github.com/nvannoort) + [LinkedIn](https://www.linkedin.com/in/nicholas-van-noort/)
 
 # Project Repositories
-  * [Presentation](https://github.com/Industrial-Software-Solutions-MSP/Presentation)
-  * [SOPs, Topologies, Documentation](https://github.com/Industrial-Software-Solutions-MSP/SOP-Topologies-Documentation)
-  * [Scripts](https://github.com/Industrial-Software-Solutions-MSP/Scripts)
+  * [Presentation](https://github.com/Industrial-Software-Solutions-MSP/Presentation) - This repo contains our slideshow and a link to our full presentation video.
+  * [SOPs, Topologies, Documentation](https://github.com/Industrial-Software-Solutions-MSP/SOP-Topologies-Documentation) - This rep contains the SOPs our team developed to create a proactive security culture at the client company, our ideal topology for their computer systems, and relevant documentation. 
+  * [Scripts](https://github.com/Industrial-Software-Solutions-MSP/Scripts) - This repo contains scripts used to automate processes in our demonstration.
